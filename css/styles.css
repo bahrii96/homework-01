@@ -1,0 +1,16 @@
+body {
+  /* background-color: darkseagreen; */
+}
+
+.site {
+  color: black;
+}
+.site:hover {
+  color: #2196f3;
+}
+.user_svg {
+  color: black;
+}
+.user_svg:hover {
+  color: #2196f3;
+}
